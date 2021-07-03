@@ -1,7 +1,7 @@
 # DMInet: An Accurate and Highly Flexible Deep Learning Framework for Drug Discovery with Membrane Selectivity
 DMInet model development
 
-![DMInet](./DMInet.jpg)
+![DMInet](./DMInet.png)
 
 # Content
 - data: the dataset for DMInet model development
