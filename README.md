@@ -8,5 +8,5 @@ DMInet model development
 - src: the source code for model development
 - SI: supporting information with the paper below
 
-# Reference
+# How to cite
 Chen, Guang. "DMInet: An Accurate and Highly Flexible Deep Learning Framework for Drug Discovery with Membrane Selectivity." arXiv preprint arXiv:2105.13928 (2021).
